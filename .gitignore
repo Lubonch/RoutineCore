@@ -1,1 +1,116 @@
+# =============================================================================
+# RoutineCore .gitignore
+# =============================================================================
+
+# ----- .NET / C# -----
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET publish output
+publish/
+out/
+
+# ----- Angular / Node.js -----
+node_modules/
+dist/
+tmp/
+.angular/
+.sass-cache/
+*.tsbuildinfo
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----- IDE & Editors -----
+# Visual Studio
+.vs/
+*.rsuser
+*.sln.iml
+launchSettings.json
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains (Rider, WebStorm)
+.idea/
+*.sln.iml
+
+# ----- OS Files -----
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ----- Aider (Local LLM Assistant) -----
 .aider*
+.aider.conf.yml
+.aider.model.settings.yml
+.aider.model.metadata.json
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.v4/
+
+# ----- Local Reference Files (for Aider/LLM context) -----
+CONVENTIONS.md
+ARCHITECTURE.md
+API_MAP.md
+
+# ----- Environment & Secrets -----
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+secrets.json
+
+# ----- Docker -----
+docker-compose.override.yml
+
+# ----- Misc -----
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+coverage/
+TestResults/
