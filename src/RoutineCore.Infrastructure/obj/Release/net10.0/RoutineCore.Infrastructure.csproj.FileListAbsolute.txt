@@ -1,0 +1,15 @@
+C:\repos\System\src\RoutineCore.Infrastructure\bin\Release\net10.0\RoutineCore.Infrastructure.deps.json
+C:\repos\System\src\RoutineCore.Infrastructure\bin\Release\net10.0\RoutineCore.Infrastructure.dll
+C:\repos\System\src\RoutineCore.Infrastructure\bin\Release\net10.0\RoutineCore.Infrastructure.pdb
+C:\repos\System\src\RoutineCore.Infrastructure\bin\Release\net10.0\RoutineCore.Domain.dll
+C:\repos\System\src\RoutineCore.Infrastructure\bin\Release\net10.0\RoutineCore.Domain.pdb
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.csproj.AssemblyReference.cache
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.AssemblyInfoInputs.cache
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.AssemblyInfo.cs
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineC.379B7834.Up2Date
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.dll
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\refint\RoutineCore.Infrastructure.dll
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\RoutineCore.Infrastructure.pdb
+C:\repos\System\src\RoutineCore.Infrastructure\obj\Release\net10.0\ref\RoutineCore.Infrastructure.dll
